@@ -109,12 +109,6 @@ Access your application at `http://localhost:8501`
 
 ---
 
-## 📸 Demo Image
-
-Use this [sample image](https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg) to test the image modality.
-
----
-
 ## 🛠️ Technologies Used
 
 - **LangGraph** (Multi-agent orchestration)
