@@ -1,0 +1,15 @@
+langchain
+langchain_community
+langgraph
+openai
+chromadb
+sentence-transformers
+transformers
+torch
+torchvision
+datasets
+wikipedia
+python-dotenv
+streamlit
+pillow
+numpy
